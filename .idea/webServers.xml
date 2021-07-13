@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d5aaefed-5795-489d-b20d-0a0ed804315d" name="learningtechnologies.diskstation.me" url="http://learningtechnologies.diskstation.me/">
+        <fileTransfer rootFolder="/web/" accessType="SFTP" host="192.168.1.169" port="22" sshConfigId="dcc112fd-d898-4bbb-b7a2-4d02dbe5f1aa" sshConfig="wshuts@192.168.1.169:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
